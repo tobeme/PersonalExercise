@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("\c");
+	printf("\c"); //it's a wrong try
 	return 0;
 }
